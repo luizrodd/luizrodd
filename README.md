@@ -4,7 +4,21 @@
 
 
 
-<a href="https://github.com/luizrodd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luizrodd&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="luiz github stats" /></a><a href="https://github.com/luizrodd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizrodd&layout=compact&theme=tokyonight&hide_border=true" /></a>
+<p align="center">
+  <a href="https://github.com/luizrodd">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizrodd&theme=transparent" />
+  </a>
+  <a href="https://github.com/luizrodd">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizrodd&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/luizrodd">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizrodd&theme=transparent" />
+  </a>
+  <a href="https://github.com/luizrodd">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizrodd&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
