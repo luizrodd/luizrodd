@@ -2,10 +2,9 @@
 
 ## 💻 Habilidades
 
-- Linguagens de Programação: Python, JavaScript, Java
+- Linguagens de Programação: JavaScript
 - Tecnologias: HTML, CSS, React, Node.js
-- Aprendizado de Máquina: TensorFlow, Scikit-learn
-- Banco de Dados: MySQL, MongoDB
+- Banco de Dados: MySQL
 - Versionamento: Git
 
 ## 📧 Contato
