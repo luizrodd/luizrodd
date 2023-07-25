@@ -1,25 +1,19 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=363b96&height=120&section=header"/>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4141ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+LUIZ+FELIPE;I'm+19+years+old;I'm+from+Brazil;I'm+Studant+Software+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-
-<p align="center">
-  <a href="https://github.com/luizrodd">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizrodd&theme=transparent" />
-  </a>
-  <a href="https://github.com/luizrodd">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizrodd&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/luizrodd">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizrodd&theme=transparent" />
-  </a>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
   
-</p>
-
-
-
-
+  ##
+ 
+<div> 
+  <a href = "mailto:luizfelipemprod@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luiz-felipe-rodrigues-301018255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=363b96&height=120&section=footer"/>
+</div>
