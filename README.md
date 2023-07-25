@@ -1,7 +1,19 @@
+<h1 align="center">Hi 👋, Welcome to my profile!</h1>
 
+## 💻 Habilidades
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4141ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+LUIZ+FELIPE;I'm+19+years+old;I'm+from+Brazil;I'm+Studant+Software+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+- Linguagens de Programação: Python, JavaScript, Java
+- Tecnologias: HTML, CSS, React, Node.js
+- Aprendizado de Máquina: TensorFlow, Scikit-learn
+- Banco de Dados: MySQL, MongoDB
+- Versionamento: Git
 
+## 📧 Contato
+
+- Email: luizfelipemprod@gmail.com
+- Discord: slash3369
+  
+##
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -17,3 +29,4 @@
   <a href="https://www.linkedin.com/in/luiz-felipe-rodrigues-301018255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+<img src="https://imgur.com/rilHVxA.png"/>
