@@ -3,10 +3,9 @@
 ## 💻 Habilidades
 
 - Linguagens de Programação: JavaScript
-- Tecnologias: HTML, CSS, React
+- Tecnologias: HTML, CSS, React, NodeJs, Next
 - Banco de Dados: MySQL
 - Versionamento: Git
-- Estudando: Java!
 ## 📧 Contato
 
 - Email: luizfelipemprod@gmail.com
