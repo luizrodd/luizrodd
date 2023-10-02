@@ -21,6 +21,7 @@
 </div>
   
   ##
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizrodd&show_icons=true&theme=radical)
  
 <div> 
   <a href = "mailto:luizfelipemprod@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
