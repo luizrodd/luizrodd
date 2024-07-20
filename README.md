@@ -3,8 +3,8 @@
 ## 💻 Habilidades
 
 - Linguagens de Programação: JavaScript, C#
-- Tecnologias: React, Node, Angular
-- Banco de Dados: MySQL
+- Tecnologias: React, Node, Angular, Dotnet, Vue
+- Banco de Dados: MySQL, SQLServer, MongoDB
 - Versionamento: Git
 ## 📧 Contato
 
