@@ -2,7 +2,7 @@
 
 ## 💻 Habilidades
 
-- Linguagens de Programação: JavaScript, C#
+- Linguagens de Programação: TypeScript, C#
 - Tecnologias: React, Node, Angular, .Net, Vue
 - Banco de Dados: MySQL, SQLServer, MongoDB
 - Versionamento: Git
