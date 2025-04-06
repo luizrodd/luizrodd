@@ -6,6 +6,7 @@
 - Tecnologias: React, Node, Angular, .Net, Vue
 - Banco de Dados: MySQL, SQLServer, MongoDB
 - Versionamento: Git
+- Azure, Scrum, AWS
 ## 📧 Contato
 
 - Email: luizfelipemprod@gmail.com
